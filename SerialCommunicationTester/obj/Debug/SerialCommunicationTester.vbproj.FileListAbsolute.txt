@@ -1,0 +1,11 @@
+c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\bin\Debug\SerialCommunicationTester.exe.config
+c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\bin\Debug\SerialCommunicationTester.exe
+c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\bin\Debug\SerialCommunicationTester.pdb
+c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\bin\Debug\SerialCommunicationTester.xml
+c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.Resources.resources
+c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.vbproj.GenerateResource.Cache
+c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.exe
+c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.xml
+c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.pdb
+c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.Main.resources
+C:\Users\Glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.vbprojResolveAssemblyReference.cache
