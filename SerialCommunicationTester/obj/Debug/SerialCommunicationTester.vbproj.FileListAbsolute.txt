@@ -9,3 +9,4 @@ c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\
 c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.pdb
 c:\users\glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.Main.resources
 C:\Users\Glitch\documents\visual studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.vbprojResolveAssemblyReference.cache
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\SerialCommunicationTester\SerialCommunicationTester\obj\Debug\SerialCommunicationTester.WeighBridgeSimulator.resources

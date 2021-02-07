@@ -21,7 +21,7 @@ Public Class Main
     Private Sub _serial_DataReceived(sender As Object, e As DataReceivedEventArgs)
         AddOutput(e.dataReceived)
     End Sub
-    Private Delegate Sub TextDelegate(s As String)
+    Private Delegate Sub TextDelegate([message] As String)
     Private Sub AddOutput([message] As String)
         If txtReceived.InvokeRequired Then
             Dim d As New TextDelegate(AddressOf AddOutput)
