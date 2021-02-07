@@ -3,6 +3,14 @@
 Public Class SerialCommunication
     Private WithEvents _port As New SerialPort
     Public Event DataReceived(sender As Object, e As DataReceivedEventArgs)
+    Public Function isConnected() As Boolean
+        If _port.IsOpen Then
+            Return True
+        End If
+        MessageBox.Show(String.Format("No connection established. Port {0} is already in use", _port.PortName))
+        Return False
+    End Function
+
     Public Sub Connect(portName As String)
         Try
             Dim config As New Configuration
@@ -32,7 +40,7 @@ Public Class SerialCommunication
             If _port.IsOpen Then
                 _port.WriteLine([message])
             Else
-                MessageBox.Show("Not connection established. Please press Connect")
+                MessageBox.Show("No connection established. Please press Connect")
             End If
         Catch ex As Exception
         End Try
@@ -43,7 +51,7 @@ Public Class SerialCommunication
             If _port.IsOpen Then
                 result = _port.ReadExisting()
             Else
-                MessageBox.Show("Not connection established. Please press Connect")
+                MessageBox.Show("No connection established. Please press Connect")
             End If
         Catch ex As Exception
         End Try
